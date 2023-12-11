@@ -1,0 +1,7 @@
+Fabio,Eggenberg,7,fabioeggenberg,123456789,True
+Fabio,Eggenberg,7,user_fabioeggenberg,123456789,False
+Ana,Antunes,6,anaantunes,12345,False
+Nick,Stürm,48,nick.stuerm,password,True
+Carl,Stürm,48,carl.stuerm,password,False
+Carlnick,Stürm,45,carlnick.stuerm,password,False
+Nick,Stürm,45,nick.stuerm1,password,True
